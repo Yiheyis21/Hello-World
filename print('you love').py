@@ -1,0 +1,1 @@
+print('why you take risponsibility for some thing wrong')
